@@ -1,0 +1,3 @@
+TOKEN = "TOKEN HERE"
+
+tokenNgrok = "8033700873:AAGNuAFWT0Kp1UVZ1dw5-Sqs7qfAaelANdo"
